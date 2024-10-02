@@ -14,3 +14,16 @@ This project focuses on using a YOLO model for the detection and classification 
 - YOLOv8 or similar YOLO version compatible with your dataset and setup
 - Roboflow API key for dataset management
 - Required Python libraries (listed in `requirements.txt`)
+
+## Installation Steps
+1. Clone the repository:
+
+```bash
+git clone https://github.com/javaid/AI-Solid-Waste-Detection.git
+cd AI-Solid-Waste-Detection
+```
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```

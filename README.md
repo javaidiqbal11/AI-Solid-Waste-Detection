@@ -19,7 +19,7 @@ This project focuses on using a YOLO model for the detection and classification 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/javaid/AI-Solid-Waste-Detection.git
+git clone https://github.com/javaidiqbal11/AI-Solid-Waste-Detection.git
 cd AI-Solid-Waste-Detection
 ```
 2. Install dependencies:

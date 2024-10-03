@@ -1,4 +1,4 @@
-# AI-Solid-Waste-Detection
+# AI Solid Waste Detection
 
 ## Overview
 This project focuses on using a YOLO model for the detection and classification of solid waste items. The AI system is designed to assist in waste management by accurately identifying different types of solid waste from images, contributing to more efficient waste sorting and recycling processes.

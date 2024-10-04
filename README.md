@@ -27,3 +27,7 @@ cd AI-Solid-Waste-Detection
 ```bash
 pip install -r requirements.txt
 ```
+
+## Mobile Compaible Models
+`tflite` exported after the YOLO11l model trained
+`coreml` exported after YOLO11l trained 

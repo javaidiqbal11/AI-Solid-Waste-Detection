@@ -1,5 +1,6 @@
 ### Replace the labels annotation with unique IDs in the place of same English and French label 
 ### This file used in the MonggoDB Shell 
+### Paste the same code in the MongDB Shell 
 
 db["wastes_copy"].find()
 const labelMap = {

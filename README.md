@@ -10,7 +10,7 @@ This project focuses on using a YOLO model for the detection and classification 
 
 ## Setup and Installation
 **Prerequisites**
-- Python 3.12 or higher
+- Python 3.10 or higher
 - YOLO11l version compatible with the dataset and setup
 - Roboflow API key for dataset management
 - Required Python libraries (listed in `requirements.txt`)
